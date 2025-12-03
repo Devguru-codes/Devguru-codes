@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Data Analysis & Machine Learning projects.<br><br>Why: You have active repositories like Renewable_energy and isroNSHpart2 (Lunar Crater Detection), which show you are building models and analyzing datasets.<br><br>👯 I’m looking to collaborate on<br><br>Open Source Python projects and Data Science challenges and Business analyst.<br><br>Why: Your forks (like the ISRO NSH parts) suggest you enjoy participating in hackathons or team-based technical challenges.<br><br>🤝 I’m looking for help with<br><br>Advanced Model Merging and Lead Generation strategies and  business analyst<br><br>Why: Your isroNSHpart2 repo mentions merging models for urban resilience, and your Caprae-Lead-Gen-Suite indicates you are tackling business logic in code.<br><br>🌱 I’m currently learning<br><br>Data Cleaning, EDA techniques, and Space Tech applications.<br><br>Why: Your dataCleaningAndEDA repo explicitly focuses on cleaning data with MySQL, showing this is a key skill you are honing.<br><br>💬 Ask me about<br><br>Python, MySQL, and Environmental Data Analysis.<br><br>Why: You have projects analyzing Coral Reef health and Renewable Energy, making you knowledgeable in applying tech to environmental stats.<br><br>⚡ Fun fact<br><br>"I'm training AI to find craters on the moon while I look for my next internship!"<br><br>Why: A nod to your isroNSHpart1 repository and your Pre Intern Work note.[1]<br><br>💡 Profile Tips:<br><br>Showcase your "Pre Intern Work": Pin the Caprae-Lead-Gen-Suite repository to your profile so recruiters see your practical work first.[1]<br><br>Un-fork if possible: If the ISRO projects were a team effort where you did significant work, consider making your own standalone repository for them (or updating the description to highlight your specific contribution), as forks are sometimes overlooked by recruiters.[1]<br><br>Sources<br>help<br>Devguru-codes (Devguru Tiwari) · GitHub
+
+🔭 **I’m currently working on**
+Building predictive models for **Renewable Energy** and optimizing **Lead Generation** workflows. I focus on translating raw data into actionable business insights using Python and SQL.
+
+👯 **I’m looking to collaborate on**
+Scalable **Machine Learning** projects, **Data Visualization** dashboards, and solving complex **Business Analytics** challenges.
+
+🤝 **I’m looking for help with**
+Advanced **MLOps** (Model Deployment pipelines) and refining strategies for **Urban Resilience** modeling.
+
+🌱 **I’m currently learning**
+Advanced **SQL** for business logic, **Deep Learning** architectures, and Market Trend Analysis.
+
+💬 **Ask me about**
+**Python** (Pandas, Scikit-learn), **MySQL**, Feature Engineering, and how to use data to solve real-world environmental and business problems.
+
+⚡ **Fun fact**
+"I bridge the gap between Code and Strategy—training AI to find lunar craters by night, and optimizing business leads by day!"
 
 
 ## 🌐 Socials:
