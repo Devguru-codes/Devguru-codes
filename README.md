@@ -1,23 +1,16 @@
 # 💫 About Me:
-
-🔭 **I’m currently working on**
-Building predictive models for **Renewable Energy** and optimizing **Lead Generation** workflows. I focus on translating raw data into actionable business insights using Python and SQL.
-
-👯 **I’m looking to collaborate on**
-Scalable **Machine Learning** projects, **Data Visualization** dashboards, and solving complex **Business Analytics** challenges.
-
-🤝 **I’m looking for help with**
-Advanced **MLOps** (Model Deployment pipelines) and refining strategies for **Urban Resilience** modeling.
-
-🌱 **I’m currently learning**
-Advanced **SQL** for business logic, **Deep Learning** architectures, and Market Trend Analysis.
-
-💬 **Ask me about**
-**Python** (Pandas, Scikit-learn), **MySQL**, Feature Engineering, and how to use data to solve real-world environmental and business problems.
-
-⚡ **Fun fact**
-"I bridge the gap between Code and Strategy—training AI to find lunar craters by night, and optimizing business leads by day!"
-
+## 🔭 I’m currently working on
+Advanced Ranking Algorithms and Ensemble Methods (XGBoost + LightGBM). I am currently pivoting my research focus toward Generative AI and its application in search and personalization.
+## 👯 I’m looking to collaborate on
+High-impact Data Science Competitions (Kaggle/Unstop) and research-oriented projects involving Deep Learning and NLP.
+## 🤝 I’m looking for help with
+Understanding the deeper mathematical underpinnings of Attention Mechanisms and optimizing model architecture for edge devices.
+## 🌱 I’m currently learning
+Generative AI, leveraging APIs (OpenAI/Gemini) for complex tasks, and the integration of Agentic AI in coding workflows.
+## 💬 Ask me about
+Statistical Modeling, Feature Engineering, Model Evaluation metrics, and how I ranked in the Top 4% of the Amazon ML Challenge.
+## ⚡ Fun fact
+"I bridge the gap between Data and Decisions—whether it's forecasting stock prices or detecting lunar craters, I let the algorithms do the talking."
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devguru-tiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devguruatwork@gmail.com) 
