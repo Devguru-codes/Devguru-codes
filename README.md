@@ -1,6 +1,3 @@
-Here’s the shifted version with stronger focus on **Python, Docker, GitHub Actions, and MLOps**:
-
----
 
 # 💫 About Me:
 
