@@ -1,16 +1,33 @@
+Here’s the shifted version with stronger focus on **Python, Docker, GitHub Actions, and MLOps**:
+
+---
+
 # 💫 About Me:
+
 ## 🔭 I’m currently working on
-Advanced Ranking Algorithms and Ensemble Methods (XGBoost + LightGBM). I am currently pivoting my research focus toward Generative AI and its application in search and personalization.
+
+Building production-ready ML systems using **Python**, focusing on clean architecture, modular pipelines, and scalable deployment. I actively use **Docker** for containerization and **GitHub Actions** for CI/CD to automate testing, training, and deployment workflows. My current interests lie in **MLOps, model reproducibility, and deployment optimization**.
+
 ## 👯 I’m looking to collaborate on
-High-impact Data Science Competitions (Kaggle/Unstop) and research-oriented projects involving Deep Learning and NLP.
+
+MLOps-driven projects, scalable ML systems, and real-world applications where models move beyond notebooks into production using Dockerized environments and automated pipelines.
+
 ## 🤝 I’m looking for help with
-Understanding the deeper mathematical underpinnings of Attention Mechanisms and optimizing model architecture for edge devices.
+
+Advanced MLOps strategies, optimizing CI/CD workflows for ML projects, improving model monitoring in production, and designing efficient Python-based architectures for scalable systems.
+
 ## 🌱 I’m currently learning
-Generative AI, leveraging APIs (OpenAI/Gemini) for complex tasks, and the integration of Agentic AI in coding workflows.
+
+End-to-end MLOps workflows, experiment tracking, container orchestration concepts, infrastructure automation, and best practices for deploying ML systems using Docker and GitHub Actions.
+
 ## 💬 Ask me about
-Statistical Modeling, Feature Engineering, Model Evaluation metrics, and how I ranked in the Top 4% of the Amazon ML Challenge.
+
+Python for ML systems, structuring ML repositories, Git workflows, Dockerizing ML projects, CI/CD automation with GitHub Actions, feature engineering, and model evaluation strategies.
+
 ## ⚡ Fun fact
-"I bridge the gap between Data and Decisions—whether it's forecasting stock prices or detecting lunar craters, I let the algorithms do the talking."
+
+"When I am tired, I go to sleep."
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devguru-tiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devguruatwork@gmail.com) 
