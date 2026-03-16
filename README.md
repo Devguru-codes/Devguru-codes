@@ -7,7 +7,7 @@ Building production-ready ML systems using **Python**, focusing on clean archite
 
 ## 👯 I’m looking to collaborate on
 
-MLOps-driven projects, scalable ML systems, and real-world applications where models move beyond notebooks into production using Dockerized environments and automated pipelines.
+MLOps-driven projects, scalable ML systems, heavy python implementations and real-world applications where models move beyond notebooks into production using Dockerized environments and automated pipelines.
 
 ## 🤝 I’m looking for help with
 
